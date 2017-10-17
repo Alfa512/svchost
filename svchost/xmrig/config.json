@@ -1,0 +1,26 @@
+{
+    "algo": "cryptonight",
+    "av": 0,
+    "background": false,
+    "colors": true,
+    "cpu-affinity": null,
+    "cpu-priority": null,
+    "donate-level": 1,
+    "log-file": null,
+    "max-cpu-usage": 95,
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "safe": false,
+    "syslog": false,
+    "threads": 5,
+    "pools": [
+        {
+            "url": "mine.xmrpool.net:80",
+            "user": "49EAXnzUEd7apLhBQYwF2mbuHkXoB21njDD2SdULxgcSB8r2tTvnKCaF7DJ8FumpweCPw3RS4ykSwWtJGQMRta7aQfHSWMg+300",
+            "pass": "worker:alfa512ks@mail.ru",
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
